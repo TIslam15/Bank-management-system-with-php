@@ -1,0 +1,8 @@
+.form {
+    display: flex;
+    grid: auto;
+}
+
+.text {
+    padding-left: 10px;
+}
